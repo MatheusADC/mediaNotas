@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #15232d;
+    font-family: "Roboto", sans-serif;
+}
+
+.container {
+    margin-left: 30px;
+}
+
+h1 {
+    color: #ffc600;
+}
+
+div {
+    width: 40%;
+    margin-top: 10px;
+}
+
+button {
+    width: 100%;
+}
+
+i {
+    margin-right: 5px;
+}
+
+botao-calcular {
+    background-color: #ffc600;
+    color: #15232d;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
